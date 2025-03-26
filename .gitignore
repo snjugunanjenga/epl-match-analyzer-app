@@ -74,6 +74,4 @@ coverage.xml
 *.sublime-workspace
 *.sublime-project
 
-# Data Files (if you want to exclude large data files)
-data/
-!data/README.md
+

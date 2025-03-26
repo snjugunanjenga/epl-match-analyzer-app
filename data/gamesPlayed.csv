@@ -1,0 +1,51 @@
+Day,Date,Time,Home,xG_Home,Score,xG_Away,Away,Attendance,Venue,Referee,HomeScore,AwayScore
+Fri,2024-08-16,20:00,Manchester Utd,2.4,1-0,0.4,Fulham,,Old Trafford,Robert Jones,1,0
+Sat,2024-08-17,12:30,Ipswich Town,0.5,0-2,2.6,Liverpool,,Portman Road Stadium,Tim Robinson,0,2
+Sat,2024-08-17,15:00,Newcastle Utd,0.3,1-0,1.8,Southampton,,St James' Park,Craig Pawson,1,0
+Sat,2024-08-17,15:00,Nott'ham Forest,1.3,1-1,1.2,Bournemouth,,The City Ground,Michael Oliver,1,1
+Sat,2024-08-17,15:00,Everton,0.5,0-3,1.4,Brighton,,Goodison Park,Simon Hooper,0,3
+Sat,2024-08-17,15:00,Arsenal,1.2,2-0,0.5,Wolves,,Emirates Stadium,Jarred Gillett,2,0
+Sat,2024-08-17,17:30,West Ham,2.3,1-2,2.0,Aston Villa,,London Stadium,Tony Harrington,1,2
+Sun,2024-08-18,14:00,Brentford,1.6,2-1,1.2,Crystal Palace,,Gtech Community Stadium,Samuel Barrott,2,1
+Sun,2024-08-18,16:30,Chelsea,1.0,0-2,0.8,Manchester City,,Stamford Bridge,Anthony Taylor,0,2
+Mon,2024-08-19,20:00,Leicester City,1.0,1-1,1.2,Tottenham,,King Power Stadium,Chris Kavanagh,1,1
+Sat,2024-08-24,12:30,Brighton,2.1,2-1,1.4,Manchester Utd,,The American Express Stadium,Craig Pawson,2,1
+Sat,2024-08-24,15:00,Tottenham,2.4,4-0,1.0,Everton,,Tottenham Hotspur Stadium,Anthony Taylor,4,0
+Sat,2024-08-24,15:00,Fulham,1.8,2-1,0.6,Leicester City,,Craven Cottage,Darren Bond,2,1
+Sat,2024-08-24,15:00,Crystal Palace,1.3,0-2,1.4,West Ham,,Selhurst Park,Robert Jones,0,2
+Sat,2024-08-24,15:00,Manchester City,3.3,4-1,0.3,Ipswich Town,,Etihad Stadium,Samuel Allison,4,1
+Sat,2024-08-24,15:00,Southampton,0.1,0-1,2.2,Nott'ham Forest,,St Mary's Stadium,Samuel Barrott,0,1
+Sat,2024-08-24,17:30,Aston Villa,1.2,0-2,0.9,Arsenal,,Villa Park,Michael Oliver,0,2
+Sun,2024-08-25,14:00,Bournemouth,2.2,1-1,1.6,Newcastle Utd,,Vitality Stadium,David Coote,1,1
+Sun,2024-08-25,14:00,Wolves,1.9,2-6,1.6,Chelsea,,Molineux Stadium,Darren England,2,6
+Sun,2024-08-25,16:30,Liverpool,2.5,2-0,0.5,Brentford,,Anfield,Stuart Attwell,2,0
+Sat,2024-08-31,12:30,Arsenal,2.1,1-1,1.7,Brighton,,Emirates Stadium,Chris Kavanagh,1,1
+Sat,2024-08-31,15:00,Everton,1.8,2-3,2.4,Bournemouth,,Goodison Park,Stuart Attwell,2,3
+Sat,2024-08-31,15:00,Leicester City,0.4,1-2,1.4,Aston Villa,,King Power Stadium,David Coote,1,2
+Sat,2024-08-31,15:00,Nott'ham Forest,1.0,1-1,0.7,Wolves,,The City Ground,Simon Hooper,1,1
+Sat,2024-08-31,15:00,Ipswich Town,0.4,1-1,0.9,Fulham,,Portman Road Stadium,Lewis Smith,1,1
+Sat,2024-08-31,15:00,Brentford,2.8,3-1,1.5,Southampton,,Gtech Community Stadium,Joshua Smith,3,1
+Sat,2024-08-31,17:30,West Ham,0.7,1-3,3.0,Manchester City,,London Stadium,Michael Oliver,1,3
+Sun,2024-09-01,13:30,Newcastle Utd,1.8,2-1,1.2,Tottenham,,St James' Park,Robert Jones,2,1
+Sun,2024-09-01,13:30,Chelsea,2.4,1-1,0.5,Crystal Palace,,Stamford Bridge,Jarred Gillett,1,1
+Sun,2024-09-01,16:00,Manchester Utd,1.4,0-3,1.8,Liverpool,,Old Trafford,Anthony Taylor,0,3
+Sat,2024-09-14,12:30,Southampton,1.1,0-3,2.6,Manchester Utd,,St Mary's Stadium,Stuart Attwell,0,3
+Sat,2024-09-14,15:00,Brighton,1.6,0-0,0.3,Ipswich Town,,The American Express Stadium,Samuel Barrott,0,0
+Sat,2024-09-14,15:00,Crystal Palace,2.5,2-2,1.2,Leicester City,,Selhurst Park,Tony Harrington,2,2
+Sat,2024-09-14,15:00,Manchester City,2.1,2-1,1.0,Brentford,,Etihad Stadium,Darren Bond,2,1
+Sat,2024-09-14,15:00,Liverpool,0.9,0-1,0.4,Nott'ham Forest,,Anfield,Michael Oliver,0,1
+Sat,2024-09-14,15:00,Fulham,1.5,1-1,0.8,West Ham,,Craven Cottage,Tim Robinson,1,1
+Sat,2024-09-14,17:30,Aston Villa,2.1,3-2,0.9,Everton,,Villa Park,Craig Pawson,3,2
+Sat,2024-09-14,20:00,Bournemouth,1.7,0-1,0.8,Chelsea,,Vitality Stadium,Anthony Taylor,0,1
+Sun,2024-09-15,14:00,Tottenham,0.7,0-1,0.7,Arsenal,,Tottenham Hotspur Stadium,Jarred Gillett,0,1
+Sun,2024-09-15,16:30,Wolves,1.2,1-2,1.5,Newcastle Utd,,Molineux Stadium,Chris Kavanagh,1,2
+Sat,2024-09-21,12:30,West Ham,0.9,0-3,2.2,Chelsea,,London Stadium,Samuel Barrott,0,3
+Sat,2024-09-21,15:00,Liverpool,2.0,3-0,1.1,Bournemouth,,Anfield,Tony Harrington,3,0
+Sat,2024-09-21,15:00,Leicester City,0.7,1-1,1.1,Everton,,King Power Stadium,Darren England,1,1
+Sat,2024-09-21,15:00,Southampton,2.4,1-1,1.6,Ipswich Town,,St Mary's Stadium,Samuel Allison,1,1
+Sat,2024-09-21,15:00,Tottenham,3.5,3-1,0.8,Brentford,,Tottenham Hotspur Stadium,John Brooks,3,1
+Sat,2024-09-21,15:00,Fulham,2.2,3-1,1.5,Newcastle Utd,,Craven Cottage,Peter Bankes,3,1
+Sat,2024-09-21,15:00,Aston Villa,1.7,3-1,0.5,Wolves,,Villa Park,Tim Robinson,3,1
+Sat,2024-09-21,17:30,Crystal Palace,1.0,0-0,1.6,Manchester Utd,,Selhurst Park,David Coote,0,0
+Sun,2024-09-22,14:00,Brighton,1.0,2-2,1.4,Nott'ham Forest,,The American Express Stadium,Robert Jones,2,2
+Sun,2024-09-22,16:30,Manchester City,2.1,2-2,0.7,Arsenal,,Etihad Stadium,Michael Oliver,2,2
